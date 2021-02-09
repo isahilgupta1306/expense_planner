@@ -1,4 +1,4 @@
-# first_trial
+# expense_planner
 
 A new Flutter project.
 
